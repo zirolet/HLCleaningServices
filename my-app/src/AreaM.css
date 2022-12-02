@@ -1,0 +1,18 @@
+.AreaM{
+    text-align: center;
+    background-color: #515151;
+    width: 100vw;
+    height: 132vw;
+    color: white;
+}
+
+.AreaM img{
+    width: 100vw;
+}
+.AreaM h3{
+    padding:1vw;
+    margin:0vw;
+    font-weight: lighter;
+    font-size: 5vw;
+    
+}

@@ -1,0 +1,41 @@
+.Area{
+    position: relative;
+    background-color: #515151;
+    line-height: 5vw;
+    font-size: 1.85vw;
+    text-align: center;
+    color: white;
+}
+
+.Area .image{
+    width: 50vw;
+    display: block;
+}
+
+.Area p{
+    margin:0px;
+    padding: 0px;
+    width: 40vw;
+    position: absolute;
+    top: 1vw;
+    font-weight:initial;
+}
+
+.left{
+    left: 44vw;
+}
+
+.right{
+    left: 66vw;
+}
+
+.low{
+    position:absolute;
+    bottom: 1vw;
+    left: 61vw;
+}
+.high{
+    position: absolute;
+    top:1vw;
+    left: 71vw;
+}

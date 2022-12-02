@@ -1,0 +1,37 @@
+.TopM{
+    position: relative;
+    text-align: center;
+    display: block;
+}
+
+.TopM img{
+    width: 100vw;
+}
+
+.introTopM{
+    position: absolute;
+    color:white;
+    font-weight: lighter;
+    margin: 0%;
+    padding: 0%;
+    width: 55vw;
+    left: 50%;
+    transform: translate(-50%, 0);
+    top: 10vw;
+    width: 65vw;
+    font-size: 7vw;
+}
+
+.introBottomM{
+    position: absolute;
+    color:white;
+    font-weight: lighter;
+    margin: 0%;
+    padding: 0%;
+    width: 55vw;
+    left: 50%;
+    transform: translate(-50%, 0);
+    top: 41vw;
+    width: 100vw;
+    font-size: 7vw;
+}

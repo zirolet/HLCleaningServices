@@ -1,0 +1,17 @@
+.Card{
+    position: absolute;
+    width:27vw;
+    height: 32vw;
+    line-height: 2vw;
+    font-size: 1.4vw;
+    margin:0%;
+}
+
+.Card .image{
+    width:27vw;
+}
+
+.Card h3{
+    line-height: 1vw;
+    font-size: 1.25vw;
+}
